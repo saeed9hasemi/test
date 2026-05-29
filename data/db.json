@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "../x.jpg",
+      "title": "title1",
+      "desc": "cjsd vsdidk dl",
+      "price": "1,555,100"
+    },
+    {
+      "id": "2",
+      "image": "x.jpg",
+      "title": "title2",
+      "desc": "cjsd vsdidk dl",
+      "price": "2,555,100"
+    },
+    {
+      "id": "3",
+      "image": "x.jpg",
+      "title": "title3",
+      "desc": "cjsd vsdidk dl",
+      "price": "3,555,100"
+    }
+  ],
+  "information": [
+    { "text": "رضایت مشتری", "number": "99" },
+    { "text": "مشتری فعال", "number": "4800" },
+    { "text": "محصول حرفه ای", "number": "350" },
+    { "text": "سال تجربه", "number": "12" }
+  ]
+}
